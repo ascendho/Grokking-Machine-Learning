@@ -1,7 +1,8 @@
-# Introduction
+# 《机器学习图解》
+
+## 封面
 
 <div align="center">
-    <img src="assets/GML.jpeg">
+    <img src="assets\s34563035.jpg">
 </div>
 
-This repository contains all the code from the book Grokking Machine Learning by Luis G. Serrano.
